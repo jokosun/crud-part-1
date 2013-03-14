@@ -1,4 +1,3 @@
 crud-part-1
 ===========
-
-Ini adalah halaman pertama saya
+/*Membuat file model dengan nama pada \xampp\htdocs\sinaucake\
